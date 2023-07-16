@@ -1,0 +1,32 @@
+    .body{
+        background-color: bisque;
+    }
+
+      .container {
+      width: 600px;
+      height: 300px;
+      margin: 200px;
+      text-align: center;
+      border-style: solid;
+      border-color: rgb(28, 3, 3);
+      
+      background-color: aqua;
+    }
+    h1 {
+      font-size: 44px;
+    }
+    .timer {
+      font-size: 48px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    .btn-container {
+      margin-top: 20px;
+    }
+    .btn {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    
